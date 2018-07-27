@@ -2,7 +2,7 @@
   "name": "prjsimples",
   "version": "1.0.0",
   "description": "Servicos de ti",
-  "main": "getDados.js",
+  "main": "app.js",
   "dependencies": {
     "body-parser": "^1.18.3",
     "consign": "^0.1.6",
