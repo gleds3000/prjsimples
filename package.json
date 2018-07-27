@@ -1,14 +1,8 @@
 {
-<<<<<<< HEAD
-  "name": "portal_noticias",
-  "version": "1.0.0",
-  "description": "Site de Noticias",
-  "main": "noticias.js",
-=======
   "name": "prjsimples",
   "version": "1.0.0",
   "description": "Servicos de ti",
-  "main": "getDados.js",
+  "main": "app.js",
   "dependencies": {
     "body-parser": "^1.18.3",
     "consign": "^0.1.6",
@@ -27,33 +21,11 @@
     "webpack": "^4.14.0"
   },
   "devDependencies": {},
->>>>>>> origin/master
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
-    "url": "git+https://github.com/gleds3000/portalnode.git"
-  },
-  "keywords": [
-    "portal"
-  ],
-  "author": "Gledson",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gleds3000/portalnode/issues"
-  },
-  "homepage": "https://github.com/gleds3000/portalnode#readme",
-  "dependencies": {
-    "body-parser": "^1.18.2",
-    "consign": "^0.1.6",
-    "ejs": "^2.5.8",
-    "express": "^4.16.3",
-    "express-validator": "^5.1.2",
-    "mysql": "^2.15.0"
-  }
-=======
     "url": "git+https://github.com/gleds3000/prjsimples.git"
   },
   "keywords": [
@@ -68,5 +40,4 @@
     "url": "https://github.com/gleds3000/prjsimples/issues"
   },
   "homepage": "https://github.com/gleds3000/prjsimples#readme"
->>>>>>> origin/master
 }
