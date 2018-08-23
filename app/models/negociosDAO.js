@@ -42,7 +42,7 @@ NegocioDAO.prototype.get5UltimasInformacoes = function(callback){
 
 module.exports = function () {
 
-    return NoticiasDAO;
+    return negocioDAO;
 
 }
 
