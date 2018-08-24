@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/master
 var express = require('express');
 var consign = require('consign');
 //var msg = require('./mod_teste');
@@ -24,8 +20,4 @@ consign()
     .then('app/controllers')
     .into(app);
 
-<<<<<<< HEAD
 module.exports = app;
-=======
-module.exports = app;l = require('mysql');
->>>>>>> origin/master
