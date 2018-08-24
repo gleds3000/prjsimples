@@ -16,4 +16,8 @@ RUN npm install
 COPY . .
 
 EXPOSE 8080
+<<<<<<< HEAD
 CMD [ "npm", "start" ]
+=======
+CMD [ "npm", "start" ]
+>>>>>>> 5efd7ecf5b549ec1159eeb94ae917278a6b83d1d
